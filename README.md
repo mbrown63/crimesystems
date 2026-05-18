@@ -6,6 +6,8 @@ The purpose of the crime system is to provide a centralized and efficient platfo
 
 [Competitive Analysis](docs/comp_analysis.pdf)
 
+[Requirements](https://docs.google.com/spreadsheets/d/1a9RUicAvbBOl8tzS1aNJv89g2xUiX4CLcEFNGkAIi9Y/edit?usp=sharing) 
+
 ## Code Design
 
 ## Project Board
